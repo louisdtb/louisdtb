@@ -1,6 +1,6 @@
 ### Hi there, I'm Louis 👋
 
-## I'm a Student of Life, Writer, Developer, and Musician!
+## I'm a Student of Life, Writer, Student Developer, and Musician!
 
 - 🌱 I’m currently learning everything
 
