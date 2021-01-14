@@ -2,7 +2,7 @@
 
 ## I'm a Student of Life, Thinker, Musician, and Novice Developer.
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning
 
 ### Languages and Tools:
 
