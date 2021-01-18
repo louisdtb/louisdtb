@@ -1,6 +1,6 @@
-### Hi there, I'm Louis 👋
+### Hi, I'm Louis 👋
 
-## I'm a Student of Life, Thinker, Musician, and Novice Developer.
+## I'm a Thinker, Musician, and Novice Developer.
 
 ### Languages and Tools:
 
