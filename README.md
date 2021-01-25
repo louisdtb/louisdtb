@@ -1,4 +1,4 @@
-### Hi, I'm Louis 👋
+### Hi, I'm Louis 🤙
 
 ### Languages and Tools:
 
