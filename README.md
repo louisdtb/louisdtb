@@ -1,4 +1,4 @@
-### Hi, I'm Louis 🤙
+### Hi, I'm Louis, a freelance web designer and developer. 
 
 ### Languages and Tools:
 
