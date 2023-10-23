@@ -1,4 +1,4 @@
-My name is Louis, I'm an independent web designer and developer. </br>
+Front-end development and pixel-perfect styling with React and Tailwind. </br>
 
 🛠 Some tools I use 🛠 </br>
 </br>
