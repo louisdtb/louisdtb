@@ -1,6 +1,6 @@
 Front-end development and pixel-perfect styling with React and Tailwind. </br>
 
-🛠
+🛠 </br>
 Frameworks and libraries: React </br>
 CSS pre-processors: SCSS </br>
 CSS frameworks: TailwindCSS, Bootstrap </br>
