@@ -16,23 +16,23 @@
 <table>
   <tr>
     <td><img width="124px" alt="achievement badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_triple-threat.png"></td>  
-    <td><p>Triple Threat: You built the front-end for three different projects in three months using React, tailwind, SCSS and Next.</p></td>  
+    <td><p><strong>Triple Threat:</strong> You built the front-end for three different projects in three months using React, tailwind, SCSS and Next.</p></td>  
   </tr>
   <tr>
     <td><img width="124px" alt="tailwind logo achievement badge" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_tailwind-titan.png"></td>  
-    <td><p>Tailwind Titan: You used TailwindCSS to create beautiful and consistent web projects, customizing with dark themes, custom fonts, and expanded styles. </p></td> 
+    <td><p><strong>Tailwind Titan:</strong> You used TailwindCSS to create beautiful and consistent web projects, customizing with dark themes, custom fonts, and expanded styles. </p></td> 
   </tr>
   <tr>
     <td><img width="124px" alt="react logo achievement badge" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_react-jedi.png"></td>
-    <td><p>React Jedi: You built engaging user interfaces with React, implementing routes, forms, and context, and customizing with Rollup and Vite.</p></td>
+    <td><p><strong>React Jedi:</strong> You built engaging user interfaces with React, implementing routes, forms, and context, and customizing with Rollup and Vite.</p></td>
   </tr>
   <tr>
     <td><img width="124px" alt="github logo achievement badge" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_git-guru.png"></td>
-    <td><p>Git Guru: You managed your code versions and collaborations with Git, reviewing pull requests, setting up CI/CD, and untangling messy branches.</p></td>
+    <td><p><strong>Git Guru:</strong> You managed your code versions and collaborations with Git, reviewing pull requests, setting up CI/CD, and untangling messy branches.</p></td>
   </tr>
   <tr>
     <td><img width="124px" alt="responsive achievement badge" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_responsive-rockstar.png"></td>
-    <td><p>Responsive Rockstar: You made your web projects responsive to different screen sizes and devices, using techniques like media queries, rem units, and flexbox.</p></td>
+    <td><p><strong>Responsive Rockstar:</strong> You made your web projects responsive to different screen sizes and devices, using techniques like media queries, rem units, and flexbox.</p></td>
   </tr>
 </table>
 </br>
