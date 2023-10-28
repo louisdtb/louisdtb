@@ -8,7 +8,8 @@
     
   <p>Front-end development and pixel-perfect styling with React and Tailwind.</p> </br>
 </div>
-<h2>Achievements</h2>
+
+<h2>Badges</h2>
 <table>
   <tr>
     <td><img width="124px" alt="achievement badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_triple-threat.png"></td>  
