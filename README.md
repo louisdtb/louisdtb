@@ -8,7 +8,8 @@
   <img alt="pixel-perfct styling, react and tailwind" src="https://github.com/louisdtb/louisdtb/blob/main/public/github-button.png" width="194px">
   </a>
     
-  <p>Front-end development and pixel-perfect styling with React and Tailwind.</p> </br>
+  <p>Front-end development and pixel-perfect styling with React and Tailwind.</p> 
+  </br>
 </div>
 
 <h2>Badges</h2>
@@ -34,8 +35,9 @@
     <td><p>Responsive Rockstar: You made your web projects responsive to different screen sizes and devices, using techniques like media queries, rem units, and flexbox.</p></td>
   </tr>
 </table>
+</br>
 
-<h2>🛠</h2>
+<h2>Tools</h2>
 <div><strong>Frameworks and libraries: </strong> 
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black">
 </div>
