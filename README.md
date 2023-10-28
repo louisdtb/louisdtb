@@ -10,7 +10,11 @@
 </div>
 
 <h2>Achievements</h2>
-<img alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_triple-threat.png">
+<img width="126px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_triple-threat.png">
+<img width="126px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_tailwind-titan.png">
+<img width="126px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_react-jedi.png">
+<img width="126px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_git-guru.png">
+<img width="126px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_responsive-rockstar.png">
 
 <h2>🛠Tools🛠</h2>
 <div>Frameworks and libraries: React</div>
