@@ -11,26 +11,30 @@
 
 <h2>Achievements</h2>
 <table>
-<tr>
-  <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_triple-threat.png">
-  <p>Triple Threat: test text here</p>
-</tr>
-<tr>
-  <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_tailwind-titan.png">
-  <p>Triple Threat: test text here</p>
-</tr>
-<tr>
-  <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_react-jedi.png">
-  <p>Triple Threat: test text here</p>
-</tr>
-<tr>
-  <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_git-guru.png">
-  <p>Triple Threat: test text here</p>
-</tr>
-<tr>
-  <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_responsive-rockstar.png">
-  <p>Triple Threat: test text here</p>
-</tr>
+  <tr>
+    <tc>
+    <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_triple-threat.png">
+    </tc>
+    <tc>
+    <p>Triple Threat: test text here</p>
+    </tc>
+  </tr>
+  <tr>
+    <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_tailwind-titan.png">
+    <p>Triple Threat: test text here</p>
+  </tr>
+  <tr>
+    <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_react-jedi.png">
+    <p>Triple Threat: test text here</p>
+  </tr>
+  <tr>
+    <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_git-guru.png">
+    <p>Triple Threat: test text here</p>
+  </tr>
+  <tr>
+    <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_responsive-rockstar.png">
+    <p>Triple Threat: test text here</p>
+  </tr>
 </table>
 
 <h2>🛠Tools🛠</h2>
