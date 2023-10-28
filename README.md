@@ -34,7 +34,9 @@
 </table>
 
 <h2>🛠</h2>
-<div>Frameworks and libraries: React</div>
+<div><strong>Frameworks and libraries:</strong> 
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</div>
 <div>CSS: SCSS, TailwindCSS, Bootstrap, BEM, Client-First</div>
 <div>Components: Chakra UI, Bootstrap, Tailwind, Mantine</div>
 <div>More: Typescript, GSAP, Formik, Yup, Rollup, Storybook, Redux Toolkit</div>
