@@ -12,12 +12,12 @@
 <h2>Achievements</h2>
 <table>
   <tr>
-    <tc>
+    <td>
     <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_triple-threat.png">
-    </tc>
-    <tc>
+    </td>
+    <td>
     <p>Triple Threat: test text here</p>
-    </tc>
+    </td>
   </tr>
   <tr>
     <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_tailwind-titan.png">
