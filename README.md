@@ -35,7 +35,7 @@
 
 <h2>🛠</h2>
 <div><strong>Frameworks and libraries:</strong> 
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black">
 </div>
 <div><strong>CSS:</strong> 
   <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?logo=sass&logoColor=white">
