@@ -38,16 +38,16 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black">
 </div>
 <div><strong>CSS:</strong> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?logo=sass&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23000000?logo=bem&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?logo=sass&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Client_first-%23000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white">
 </div>
 <div><strong>Components:</strong>
   <img alt="Static Badge" src="https://img.shields.io/badge/Chakra_UI-%23319795?logo=chakraui&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap_components-%237952B3?logo=bootstrap&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_components-%2306B6D4?logo=tailwindcss&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Mantine-%23339AF0?logo=mantine&logoColor=white">
 </div>
 <div><strong>More:</strong>
