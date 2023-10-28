@@ -44,9 +44,17 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23000000?logo=bem&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Client_first-%23000000">
 </div>
-<div><strong>Components:</strong> 
-  Chakra UI, Bootstrap, Tailwind, Mantine
+<div><strong>Components:</strong>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Chakra_UI-%23319795?logo=chakraui&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mantine-%23339AF0?logo=mantine&logoColor=white">
 </div>
-<div><strong>More:</strong> 
-  Typescript, GSAP, Formik, Yup, Rollup, Storybook, Redux Toolkit
+<div><strong>More:</strong>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%233178C6?logo=typescript&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GSAP-%2388CE02?logo=greensock&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Formik-%232463EB?logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Rollup-%23EC4A3F?logo=rollupdotjs&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23FF4785?logo=storybook&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Redux-%23764ABC?logo=redux&logoColor=white">
 </div>
