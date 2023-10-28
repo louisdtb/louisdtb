@@ -10,26 +10,28 @@
 </div>
 
 <h2>Achievements</h2>
-<div>
+<table>
+<tr>
   <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_triple-threat.png">
   <p>Triple Threat: test text here</p>
-</div>
-<div>
+</tr>
+<tr>
   <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_tailwind-titan.png">
   <p>Triple Threat: test text here</p>
-</div>
-<div>
+</tr>
+<tr>
   <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_react-jedi.png">
   <p>Triple Threat: test text here</p>
-</div>
-<div>
+</tr>
+<tr>
   <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_git-guru.png">
   <p>Triple Threat: test text here</p>
-</div>
-<div>
+</tr>
+<tr>
   <img width="80px" alt="badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/feature/achievements/public/achievement_responsive-rockstar.png">
   <p>Triple Threat: test text here</p>
-</div>
+</tr>
+</table>
 
 <h2>🛠Tools🛠</h2>
 <div>Frameworks and libraries: React</div>
