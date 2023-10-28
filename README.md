@@ -1,5 +1,7 @@
 <div align="center">
-  <img alt="pixel-perfct styling, react and tailwind" src="https://github.com/louisdtb/louisdtb/blob/main/public/github-cover.png">
+  <a target="_blank" href="https://www.linkedin.com/in/louisdetilly/">
+    <img alt="pixel-perfct styling, react and tailwind" src="https://github.com/louisdtb/louisdtb/blob/main/public/github-cover.png">
+  </a>
   <h1>Louis de Tilly</h1>
 
   <a target="_blank" href="https://www.linkedin.com/in/louisdetilly/">
