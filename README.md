@@ -39,9 +39,9 @@
 </div>
 <div><strong>CSS:</strong> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23000000?logo=bem&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23161B22?logo=bem&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?logo=sass&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Client_first-%23000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Client_first-%23161B22">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white">
 </div>
 <div><strong>Components:</strong>
