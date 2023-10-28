@@ -39,7 +39,14 @@
 </div>
 <div><strong>CSS:</strong> 
   <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?logo=sass&logoColor=white">
-  TailwindCSS, Bootstrap, BEM, Client-First
+  <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23000000?logo=bem&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Client_first-%23000000">
 </div>
-<div>Components: Chakra UI, Bootstrap, Tailwind, Mantine</div>
-<div>More: Typescript, GSAP, Formik, Yup, Rollup, Storybook, Redux Toolkit</div>
+<div><strong>Components:</strong> 
+  Chakra UI, Bootstrap, Tailwind, Mantine
+</div>
+<div><strong>More:</strong> 
+  Typescript, GSAP, Formik, Yup, Rollup, Storybook, Redux Toolkit
+</div>
