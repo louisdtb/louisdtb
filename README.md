@@ -61,4 +61,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Rollup-%23EC4A3F?logo=rollupdotjs&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23FF4785?logo=storybook&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Redux-%23764ABC?logo=redux&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/leaflet-%23199900?logo=leaflet">
+  <img alt="Static Badge" src="https://img.shields.io/badge/vite-%23646CFF?logo=vite&logoColor=white">
 </div>
