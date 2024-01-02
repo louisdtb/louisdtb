@@ -38,12 +38,12 @@
 </br>
 
 <h2>Tools</h2>
-<div><b>React ecosystem: </b> 
+<div><b>React: </b> 
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%230A7EA3?logo=react&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React%20router-%23CA4245?logo=react-router&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Redux-%23764ABC?logo=redux&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React%20Router-%23CA4245?logo=react-router&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Formik-%232463EB?logo=react&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React%20Table-%23FF4154?logo=react-table&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React%20table-%23FF4154?logo=react-table&logoColor=white">
 </div>
 <div><b>CSS: </b> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white">
@@ -55,15 +55,16 @@
 </div>
 <div><b>Components: </b>
   <img alt="Static Badge" src="https://img.shields.io/badge/Chakra_UI-%23319795?logo=chakraui&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap_components-%237952B3?logo=bootstrap&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_components-%2306B6D4?logo=tailwindcss&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Mantine-%23339AF0?logo=mantine&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap_components-%237952B3?logo=bootstrap&logoColor=white">
 </div>
 <div><b>More: </b>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23000000?logo=figma&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%233178C6?logo=typescript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GSAP-%2388CE02?logo=greensock&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Rollup-%23EC4A3F?logo=rollupdotjs&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23FF4785?logo=storybook&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/leaflet-%23199900?logo=leaflet">
-  <img alt="Static Badge" src="https://img.shields.io/badge/vite-%23646CFF?logo=vite&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Leaflet-%23199900?logo=leaflet">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23646CFF?logo=vite&logoColor=white">
 </div>
