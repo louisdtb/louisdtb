@@ -60,7 +60,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap_components-%237952B3?logo=bootstrap&logoColor=white">
 </div>
 <div><b>More: </b>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23000000?logo=figma&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23161B22?logo=figma&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%233178C6?logo=typescript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GSAP-%2388CE02?logo=greensock&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Rollup-%23EC4A3F?logo=rollupdotjs&logoColor=white">
