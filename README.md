@@ -48,10 +48,9 @@
 <div><b>CSS: </b> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/PostCSS-%23DD3A0A?logo=postcss">
-  <img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23161B22?logo=bem&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?logo=sass&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23161B22?logo=bem&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Client_first-%23161B22?logo=webflow&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white">
 </div>
 <div><b>Components: </b>
   <img alt="Static Badge" src="https://img.shields.io/badge/Chakra_UI-%23319795?logo=chakraui&logoColor=white">
@@ -61,10 +60,23 @@
 </div>
 <div><b>More: </b>
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23161B22?logo=figma&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Webflow-%23146EF5?logo=webflow&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%233178C6?logo=typescript&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GSAP-%2388CE02?logo=greensock&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Rollup-%23EC4A3F?logo=rollupdotjs&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Greensock-%2388CE02?logo=greensock&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23FF4785?logo=storybook&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Leaflet-%23199900?logo=leaflet">
+</div>
+<div><b>Node: </b>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node-%23339933?logo=node.js&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Express-%23161B22?logo=express&logoColor=white">
+</div>
+<div><b>Tooling: </b>
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23646CFF?logo=vite&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Prettier-%23161B22?logo=prettier&logoColor=white">
+</div>
+<div><b>Testing: </b>
+  
+</div>
+<div><b>Bundling: </b>
+  
 </div>
