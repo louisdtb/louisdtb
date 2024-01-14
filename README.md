@@ -37,22 +37,29 @@
 </table>
 </br>
 
-<h2>Tools</h2>
+<h2>Skills</h2>
 <div><b>React: </b> 
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%230A7EA3?logo=react&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/React%20router-%23CA4245?logo=react-router&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Redux-%23764ABC?logo=redux&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Formik-%232463EB?logo=react&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React%20table-%23FF4154?logo=react-table&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TanStack%20table-%23FF4154?logo=react-table&logoColor=white">
 </div>
 <div><b>CSS: </b> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Keyframes-%231572B6?logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Media_queries-%231572B6?logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flexbox-%231572B6?logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Grid-%231572B6?logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Variables-%231572B6?logo=css3&logoColor=white">
+</div>
+<div><b>CSS Tools: </b> 
   <img alt="Static Badge" src="https://img.shields.io/badge/PostCSS-%23DD3A0A?logo=postcss">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?logo=sass&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23161B22?logo=bem&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Client_first-%23161B22?logo=webflow&logoColor=white">
 </div>
-<div><b>Components: </b>
+<div><b>UI: </b>
   <img alt="Static Badge" src="https://img.shields.io/badge/Chakra_UI-%23319795?logo=chakraui&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_components-%2306B6D4?logo=tailwindcss&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Mantine-%23339AF0?logo=mantine&logoColor=white">
@@ -61,7 +68,6 @@
 <div><b>More: </b>
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23161B22?logo=figma&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Webflow-%23146EF5?logo=webflow&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%233178C6?logo=typescript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Greensock-%2388CE02?logo=greensock&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23FF4785?logo=storybook&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Leaflet-%23199900?logo=leaflet">
@@ -69,6 +75,7 @@
 <div><b>Node: </b>
   <img alt="Static Badge" src="https://img.shields.io/badge/Node-%23339933?logo=node.js&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-%23161B22?logo=express&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/.env-%23E9B108?logo=.env&logoColor=white">
 </div>
 <div><b>Tooling: </b>
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23646CFF?logo=vite&logoColor=white">
@@ -77,6 +84,8 @@
 <div><b>Testing: </b>
   
 </div>
-<div><b>Bundling: </b>
-  
+<div><b>Management: </b>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23161B22?logo=notion&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Jira-%230052CC?logo=jira&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Trello-%230052CC?logo=trello&logoColor=white">
 </div>
