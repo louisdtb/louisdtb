@@ -50,7 +50,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Media_queries-%231572B6?logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flexbox-%231572B6?logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Grid-%231572B6?logo=css3&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Variables-%231572B6?logo=css3&logoColor=white">
 </div>
 <div><b>CSS Tools: </b> 
   <img alt="Static Badge" src="https://img.shields.io/badge/PostCSS-%23DD3A0A?logo=postcss">
