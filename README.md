@@ -29,9 +29,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center">custom apps, websites, services, workers, systems</td>
+    <td align="center">custom apps, websites, </br>services, workers, systems</td>
     <td align="center">collect data, automate tasks</td>
-    <td align="center">create data pipelines, visualizations, networks, API's</td>
+    <td align="center">create data pipelines, </br>visualizations, networks, API's</td>
   </tr>
 </table>
 
