@@ -94,7 +94,7 @@
   <li>Native ecosystem regeneration</li>
   <li>Native forest protection</li>
   <li>Cultural integrity and protection</li>
-  <li>Decolonialization</li>
+  <li>Decolonization</li>
 </ul>
 
 <h2>Badges</h2>
