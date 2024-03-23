@@ -13,24 +13,9 @@
 </div>
 
 <h2>What I do</h2>
-<table width="100%">
-  <tr>
-    <td align="center">
-      <b>Code<b>
-    </td>
-    <td align="center">
-      <b>Automate<b>
-    </td>
-    <td align="center">
-      <b>Systematize<b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">custom apps, websites, </br>services, workers, systems</td>
-    <td align="center">collect data, automate tasks</td>
-    <td align="center">create data pipelines, </br>visualizations, networks, API's</td>
-  </tr>
-</table>
+  <b>Code - </b> build custom apps, websites, services, workers, systems.</br>
+  <b>Automate - </b> collect data, automate tasks.</br>
+  <b>Systematize - </b> create data pipelines, visualizations, networks, API's.</br>
 
 <h2>Tools</h2>
 
@@ -52,6 +37,11 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Vultr-%23007BFC?logo=vultr&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Cloudflare%20pages-%23F38020?logo=cloudflare&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Github%20pages-%2319212a?logo=github&logoColor=white">
+</div>
+<div><b>Data: </b>
+  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Sequelize-%2352B0E7?logo=sequelize&logoColor=white">
 </div>
 <div><b>Design: </b>
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%2319212a?logo=figma&logoColor=white">
@@ -98,6 +88,14 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23FF4785?logo=storybook&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Leaflet-%23199900?logo=leaflet">
 </div>
+
+<h2>My interests</h2>
+<ul>
+  <li>Native ecosystem regeneration</li>
+  <li>Native forest protection</li>
+  <li>Cultural integrity and protection</li>
+  <li>Decolonialization</li>
+</ul>
 
 <h2>Badges</h2>
 <table>
