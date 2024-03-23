@@ -13,7 +13,7 @@
 </div>
 
 <h2>What I do</h2>
-<table>
+<table width="100%">
   <tr>
     <td align="center">
       <img width="124px" alt="achievement badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_triple-threat.png"></br>
