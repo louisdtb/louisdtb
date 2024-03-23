@@ -16,15 +16,12 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img width="124px" alt="achievement badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_triple-threat.png"></br>
       <b>Code<b>
     </td>
     <td align="center">
-      <img width="124px" alt="achievement badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_triple-threat.png"></br>
       <b>Automate<b>
     </td>
     <td align="center">
-      <img width="124px" alt="achievement badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_triple-threat.png"></br>
       <b>Systematize<b>
     </td>
   </tr>
