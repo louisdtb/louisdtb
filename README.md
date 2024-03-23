@@ -13,26 +13,25 @@
 </div>
 
 <h2>What I do</h2>
-
-<table style='text-align:center; vertical-align:middle'>
+<table>
   <tr>
-    <td>
+    <td align="center">
       <img width="124px" alt="achievement badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_triple-threat.png"></br>
       <b>Code<b>
     </td>
-    <td>
+    <td align="center">
       <img width="124px" alt="achievement badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_triple-threat.png"></br>
       <b>Automate<b>
     </td>
-    <td>
+    <td align="center">
       <img width="124px" alt="achievement badge with three stars" src="https://github.com/louisdtb/louisdtb/blob/main/public/achievement_triple-threat.png"></br>
       <b>Systematize<b>
     </td>
   </tr>
   <tr>
-    <td>custom apps, websites, services, workers, systems</td>
-    <td>collect data, automate tasks</td>
-    <td>create data pipelines, visualizations, networks, API's</td>
+    <td align="center">custom apps, websites, services, workers, systems</td>
+    <td align="center">collect data, automate tasks</td>
+    <td align="center">create data pipelines, visualizations, networks, API's</td>
   </tr>
 </table>
 
